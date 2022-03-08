@@ -23,4 +23,4 @@ It was the summer between junior and senior year when I first learned to code. I
 ### [Résumé](./assets/resume_emurray.pdf)
 ### email: ejmurra2@gmail.com
 ### pgp encrypted: ejmurra@protonmail.com
-### [PGP public key](http://elijmurray.com/assets/publickey.ejmurra%40protonmail.com.asc)
+### [PGP public key](/assets/emurray-pgp.asc)
