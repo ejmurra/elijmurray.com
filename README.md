@@ -7,6 +7,7 @@ Prior to joining the Tampa Bay Times, I studied at Sauk Valley Community College
 It was the summer between junior and senior year when I first learned to code. I discovered the satisfaction of solving logic puzzles and I recognized the potential to use these skills to do journalism. That year I spent my days in class studying journalism and my nights and weekends hacking together servers, making graphics in javascript, and going to hackathons.
 
 ## Selected clips
+* [Poisoned](https://projects.tampabay.com/projects/2021/investigations/lead-factory/gopher-workers/)
 * [How coronavirus is spreading in Florida](https://projects.tampabay.com/projects/data/coronavirus/)
 * [Clear takeover: How Scientology doubled its downtown Clearwater footprint in 3 years](https://projects.tampabay.com/projects/2019/investigations/scientology-clearwater-real-estate/)
 * [The Hillsborough School District found lead in its water. It didn’t tell parents for a year.](https://projects.tampabay.com/projects/2018/investigations/school-lead/hillsborough-disclosure/)
