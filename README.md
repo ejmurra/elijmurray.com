@@ -21,7 +21,7 @@ I first learned to code during the summer between my junior and senior years. I 
 * [How to play Pinellas' school choice lottery](http://www.tampabay.com/projects/2016/education/pinellas-school-choice-application-guide/)
 * [One wild ride](http://www.tampabay.com/projects/2015/features/one-wild-ride/) - My first graphic project as an intern.
 
-### [Résumé](./assets/emurray%20resume.pdf)
+### [Résumé](./assets/emurray_resume.pdf)
 ### email: ejmurra2@gmail.com
 ### pgp encrypted: ejmurra@protonmail.com
 ### [PGP public key](/assets/emurray-pgp.asc)
