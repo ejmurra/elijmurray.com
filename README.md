@@ -7,19 +7,19 @@ Prior to joining the Tampa Bay Times, I studied at Sauk Valley Community College
 It was the summer between junior and senior year when I first learned to code. I discovered the satisfaction of solving logic puzzles and I recognized the potential to use these skills to do journalism. That year I spent my days in class studying journalism and my nights and weekends hacking together servers, making graphics in javascript, and going to hackathons.
 
 ## Selected clips
-* [Poisoned](https://projects.tampabay.com/projects/2021/investigations/lead-factory/gopher-workers/) — Winner of the 2022 Pulitzer Prize for Investigative Reporting.
+* [Poisoned](https://projects.tampabay.com/projects/2021/investigations/lead-factory/gopher-workers/) — An investigation into the working conditions at a local lead smelter that was awarded the 2022 Pulitzer Prize for Investigative Journalism.
 * [How coronavirus is spreading in Florida](https://projects.tampabay.com/projects/data/coronavirus/) — Localized in spanish for our spanish-speaking audience.
-* [Clear takeover: How Scientology doubled its downtown Clearwater footprint in 3 years](https://projects.tampabay.com/projects/2019/investigations/scientology-clearwater-real-estate/) - Winner of Gerald Loeb Award for Visual Storytelling
+* [Clear takeover: How Scientology doubled its downtown Clearwater footprint in 3 years](https://projects.tampabay.com/projects/2019/investigations/scientology-clearwater-real-estate/) - An investigation into clandestine real estate purchases by the Church of Scientology to which I contributed graphics. The story was the winner of Gerald Loeb Award for Visual Storytelling
 * [The Hillsborough School District found lead in its water. It didn’t tell parents for a year.](https://projects.tampabay.com/projects/2018/investigations/school-lead/hillsborough-disclosure/)
-* [Zombie Campaigns](https://projects.tampabay.com/projects/2018/investigations/zombie-campaigns/spending-millions-after-office/) — Award-winning series that prompted FEC to clarify rules and take action against lawmakers spending campaign donations well after leaving office.
+* [Zombie Campaigns](https://projects.tampabay.com/projects/2018/investigations/zombie-campaigns/spending-millions-after-office/) — Data-based investigation into campaign account spending by candidates who were no longer campaigning. Done in partnership with local TV Station WTSP 10News, this series was awared the Alfred I duPont-Columbia Award.
 * [Choice and chance: A gunman enters the Pulse nightclub. Those in his path have only a heartbeat to react.](http://www.tampabay.com/pulse)
-* [Walmart: Thousands of police calls. You paid the bill.](http://www.tampabay.com/walmartcops)
-* [Lede](https://github.com/tbtimes/lede) — a component framework for building static story pages.
+* [Walmart: Thousands of police calls. You paid the bill.](http://www.tampabay.com/walmartcops) — An investigation of Walmart's reliance on local police departments for low level crimes for which the reporters were named finalists for the Livingston Awards.
+* [Lede](https://github.com/tbtimes/lede) — A component framework for building static story pages.
 * [The Obameter](http://www.tampabay.com/obameter)
-* [Black science matters](http://blacksciencematters.com) — a student project for a multimedia class.
-* [2016 election night site](http://www.tampabay.com/projects/2016/politics/election-night-results/) — powered by GoogleSheets and S3 in case tampabay servers went down under load.
+* [Black science matters](http://blacksciencematters.com) — A student project for a multimedia class.
+* [2016 election night site](http://www.tampabay.com/projects/2016/politics/election-night-results/) — Powered by GoogleSheets and S3 in case tampabay servers went down under load.
 * [How to play Pinellas' school choice lottery](http://www.tampabay.com/projects/2016/education/pinellas-school-choice-application-guide/)
-* [One wild ride](http://www.tampabay.com/projects/2015/features/one-wild-ride/) - first graphic project as an intern
+* [One wild ride](http://www.tampabay.com/projects/2015/features/one-wild-ride/) - My first graphic project as an intern.
 
 ### [Résumé](./assets/resume_emurray.pdf)
 ### email: ejmurra2@gmail.com
