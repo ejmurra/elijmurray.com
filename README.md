@@ -7,11 +7,11 @@ Prior to joining the Tampa Bay Times, I studied at Sauk Valley Community College
 It was the summer between junior and senior year when I first learned to code. I discovered the satisfaction of solving logic puzzles and I recognized the potential to use these skills to do journalism. That year I spent my days in class studying journalism and my nights and weekends hacking together servers, making graphics in javascript, and going to hackathons.
 
 ## Selected clips
-* [Poisoned](https://projects.tampabay.com/projects/2021/investigations/lead-factory/gopher-workers/) - Winner of the 2022 Pulitzer Prize for Investigative Reporting.
-* [How coronavirus is spreading in Florida](https://projects.tampabay.com/projects/data/coronavirus/) - Localized also in spanish for our spanish-speaking audience.
+* [Poisoned](https://projects.tampabay.com/projects/2021/investigations/lead-factory/gopher-workers/) — Winner of the 2022 Pulitzer Prize for Investigative Reporting.
+* [How coronavirus is spreading in Florida](https://projects.tampabay.com/projects/data/coronavirus/) — Localized in spanish for our spanish-speaking audience.
 * [Clear takeover: How Scientology doubled its downtown Clearwater footprint in 3 years](https://projects.tampabay.com/projects/2019/investigations/scientology-clearwater-real-estate/) - Winner of Gerald Loeb Award for Visual Storytelling
 * [The Hillsborough School District found lead in its water. It didn’t tell parents for a year.](https://projects.tampabay.com/projects/2018/investigations/school-lead/hillsborough-disclosure/)
-* [Zombie Campaigns](https://projects.tampabay.com/projects/2018/investigations/zombie-campaigns/spending-millions-after-office/) – Award-winning series that prompted FEC to clarify rules and take action against lawmakers spending campaign donations well after leaving office.
+* [Zombie Campaigns](https://projects.tampabay.com/projects/2018/investigations/zombie-campaigns/spending-millions-after-office/) — Award-winning series that prompted FEC to clarify rules and take action against lawmakers spending campaign donations well after leaving office.
 * [Choice and chance: A gunman enters the Pulse nightclub. Those in his path have only a heartbeat to react.](http://www.tampabay.com/pulse)
 * [Walmart: Thousands of police calls. You paid the bill.](http://www.tampabay.com/walmartcops)
 * [Lede](https://github.com/tbtimes/lede) — a component framework for building static story pages.
