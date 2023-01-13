@@ -1,13 +1,15 @@
 # Eli Murray
 
-I am a journalist who codes for the Tampa Bay Times. I use software to inform reporting and present compelling narratives. I take great pride in my self-motivation and ability to learn new tools on deadline.
+I am a journalist who codes for the New York Times. I use software to inform reporting and present compelling narratives. I take great pride in my self-motivation and ability to learn new tools on deadline.
 
-Before joining the Tampa Bay Times, I studied at Sauk Valley Community College, where I was active in theatre and took creative writing courses. After earning my associate degree, I studied journalism at the University of Illinois at Urbana-Champaign. During my first year at UofI, I worked as a beat reporter at The Daily Illini.
+Before joining the New York Times, I worked as an investigative/data reporter at the Tampa Bay Times where I was on the team that won the 2022 Pulitzer Prize for Investigative Reporting.
 
-I first learned to code during the summer between my junior and senior years. I discovered the satisfaction of solving logic puzzles and recognized the potential to use these skills to do journalism. That year I spent my days in class studying journalism and my nights and weekends hacking servers together, making javascript graphics, and going to hackathons.
+Prior to joining the Tampa Bay Times, I studied at Sauk Valley Community College, where I was active in theatre and took creative writing courses. After earning my associate degree, I studied journalism at the University of Illinois at Urbana-Champaign. During my first year at UofI, I worked as a beat reporter at The Daily Illini.
+
+I first learned to code during the summer between my junior and senior years at UofI. I discovered the satisfaction of solving logic puzzles and recognized the potential to use these skills to do journalism. That year I spent my days in class studying journalism and my nights and weekends hacking servers together, making javascript graphics, and going to hackathons.
 
 ## Selected clips
-* [Poisoned](https://projects.tampabay.com/projects/2021/investigations/lead-factory/gopher-workers/) — An investigation into the working conditions at a local lead smelter that was awarded the 2022 Pulitzer Prize for Investigative Journalism.
+* [Poisoned](https://projects.tampabay.com/projects/2021/investigations/lead-factory/gopher-workers/) — 2022 Pulitzer Prize-winning investigation into the working conditions at a local lead smelter.
 * [How coronavirus is spreading in Florida](https://projects.tampabay.com/projects/data/coronavirus/) — Localized in Spanish for our Spanish-speaking audience.
 * [Clear takeover: How Scientology doubled its downtown Clearwater footprint in 3 years](https://projects.tampabay.com/projects/2019/investigations/scientology-clearwater-real-estate/) - An investigation into clandestine real estate purchases by the Church of Scientology to which I contributed graphics. The story was the winner of the Gerald Loeb Award for Visual Storytelling.
 * [The Hillsborough School District found lead in its water. It didn’t tell parents for a year.](https://projects.tampabay.com/projects/2018/investigations/school-lead/hillsborough-disclosure/)
@@ -16,7 +18,6 @@ I first learned to code during the summer between my junior and senior years. I 
 * [Walmart: Thousands of police calls. You paid the bill.](http://www.tampabay.com/walmartcops) — An investigation of Walmart's reliance on local police departments to handle low-level crimes for which the reporters were named finalists for the Livingston Awards.
 * [Lede](https://github.com/tbtimes/lede) — A component framework for building static story pages.
 * [The Obameter](http://www.tampabay.com/obameter)
-* [Black science matters](http://blacksciencematters.com) — A student project for a multimedia class.
 * [2016 election night site](http://www.tampabay.com/projects/2016/politics/election-night-results/) — Powered by GoogleSheets and S3 in case tampabay servers went down under load.
 * [How to play Pinellas' school choice lottery](http://www.tampabay.com/projects/2016/education/pinellas-school-choice-application-guide/)
 * [One wild ride](http://www.tampabay.com/projects/2015/features/one-wild-ride/) - My first graphic project as an intern.
