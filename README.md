@@ -23,7 +23,7 @@ I first learned to code during the summer between my junior and senior years at 
 * [One wild ride](http://www.tampabay.com/projects/2015/features/one-wild-ride/) - My first graphic project as an intern.
 
 ### [Résumé](./assets/emurray_resume.pdf)
-### email: ejmurra2@gmail.com
+### email: eli.murray@nytimes.com
 ### pgp encrypted: ejmurra@protonmail.com
 ### [PGP public key](/assets/emurray-pgp.asc)
 
